@@ -33,3 +33,36 @@ Por meio da análise dos dados é possível:
 
 Além disso, modelos de Machine Learning podem fornecer previsões rápidas e consistentes, servindo como ferramenta de apoio à análise médica.
 
+# **2. Fontes de dados públicas e não confidenciais**
+
+## **Base Principal de dados**
+**Diabetes Pediction Dataset**
+
+Este conjunto de dados contém informações relacionadas a fatores de risco para diabetes, incluindo:
+
+- Idade;
+- Sexo;
+- Hipertensão;
+- Doença cardíaca;
+- Histórico de tabagismo;
+- Índice de Massa Corporal (IMC);
+- Nível de glicose no sangue;
+- Hemoglobina glicada (HbA1c).
+
+*A variável alvo indica:*
+
+0 = Não possui diabetes
+1 = Possui diabetes
+
+**Fonte**
+
+[**Diabetes Pediction Dataset**]
+(https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?utm_source=chatgpt.com)
+
+
+
+
+
+
+
+
