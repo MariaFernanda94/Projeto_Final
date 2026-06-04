@@ -96,9 +96,4 @@ https://www.who.int/news-room/fact-sheets/detail/diabetes
 
 Desenvolver um modelo de Machine Learning capaz de prever a ocorrência de diabetes em indivíduos com base em características clínicas e demográficas, identificando os fatores de risco mais relevantes e contribuindo para a detecção precoce da doença.
 
-## **Pergunta de negócio**
-
-*Quais características dos pacientes estão mais associadas ao diagnóstico de diabetes e é possível prever a doença com precisão utilizando técnicas de Machine Learning?*
-
-
 
