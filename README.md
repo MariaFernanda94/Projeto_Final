@@ -100,6 +100,5 @@ Desenvolver um modelo de Machine Learning capaz de prever a ocorrência de diabe
 
 *Quais características dos pacientes estão mais associadas ao diagnóstico de diabetes e é possível prever a doença com precisão utilizando técnicas de Machine Learning?*
 
-Esse tema tem uma vantagem adicional: a análise exploratória costuma gerar insights muito claros (glicose, IMC, idade, hipertensão etc.), o que facilita a construção da narrativa do projeto e da apresentação final.
 
 
