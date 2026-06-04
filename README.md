@@ -33,36 +33,61 @@ Por meio da análise dos dados é possível:
 
 Além disso, modelos de Machine Learning podem fornecer previsões rápidas e consistentes, servindo como ferramenta de apoio à análise médica.
 
-# **2. Fontes de dados públicas e não confidenciais**
+# 2. Fontes de Dados Públicas e Não Confidenciais
 
-## **Base Principal de dados**
-**Diabetes Pediction Dataset**
+## Base Principal de Dados
 
-Este conjunto de dados contém informações relacionadas a fatores de risco para diabetes, incluindo:
+### Diabetes Prediction Dataset
 
-- Idade;
-- Sexo;
-- Hipertensão;
-- Doença cardíaca;
-- Histórico de tabagismo;
-- Índice de Massa Corporal (IMC);
-- Nível de glicose no sangue;
-- Hemoglobina glicada (HbA1c).
+O conjunto de dados Diabetes Prediction Dataset será utilizado como base principal para o desenvolvimento deste projeto. A base contém informações clínicas e demográficas de indivíduos, permitindo a análise de fatores associados ao diagnóstico de diabetes e a construção de modelos preditivos.
 
-*A variável alvo indica:*
+Entre as principais variáveis disponíveis estão:
 
-0 = Não possui diabetes
-1 = Possui diabetes
+* Idade;
+* Sexo;
+* Hipertensão;
+* Doença cardíaca;
+* Histórico de tabagismo;
+* Índice de Massa Corporal (IMC);
+* Nível de glicose no sangue;
+* Hemoglobina glicada (HbA1c).
 
-**Fonte**
+A variável alvo do conjunto de dados é o diagnóstico de diabetes, representado por:
 
-[**Diabetes Pediction Dataset**]
-(https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset?utm_source=chatgpt.com)
+* 0 = Não possui diabetes;
+* 1 = Possui diabetes.
 
+**Fonte:**
 
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
+## Fonte Complementar
 
+### Pima Indians Diabetes Database
 
+O conjunto de dados Pima Indians Diabetes Database será utilizado como fonte complementar e referência acadêmica, uma vez que é amplamente empregado em pesquisas relacionadas à previsão de diabetes e avaliação de modelos de Machine Learning.
 
+A base contém informações clínicas relevantes, tais como:
 
+* Número de gestações;
+* Pressão arterial;
+* Nível de glicose;
+* Nível de insulina;
+* Índice de Massa Corporal (IMC);
+* Idade.
 
+A utilização desta base permitirá comparar resultados e compreender quais variáveis apresentam maior influência na identificação da doença.
+
+**Fonte:**
+
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+## Fonte de Contextualização
+
+### Organização Mundial da Saúde (OMS)
+
+A Organização Mundial da Saúde disponibiliza informações e estatísticas atualizadas sobre a prevalência do diabetes em nível mundial. Esses dados serão utilizados para contextualizar a relevância do problema estudado e demonstrar os impactos da doença na saúde pública.
+
+**Fonte:**
+
+https://www.who.int/news-room/fact-sheets/detail/diabetes
